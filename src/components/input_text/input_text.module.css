@@ -1,0 +1,8 @@
+.input::placeholder{
+  font-size: 0.8rem;
+}
+
+.input{
+   font-size: 0.8rem !important;
+   padding: 0.7rem 0.5rem !important;
+}

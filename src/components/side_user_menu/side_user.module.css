@@ -1,0 +1,20 @@
+
+.wrapper{
+
+}
+
+.wrapper a{
+    text-decoration: none;
+    color: black;
+}
+
+.wrapper a div{
+    padding: 0.8rem 0.4rem;
+    font-weight: bold;
+}
+
+.active div{
+    color: rgb(41, 46, 56);
+    background-color: rgb(223, 224, 225) !important;
+    
+}
